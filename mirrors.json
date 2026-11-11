@@ -8,7 +8,7 @@
   },
   "mirrors": [
     {
-      "name": "Sip Your Drink Ltd",
+      "name": "Alex Chernysh",
       "github": "sipyourdrink-ltd/trace-registry-mirror",
       "clone_url": "https://github.com/sipyourdrink-ltd/trace-registry-mirror.git",
       "head_api": "https://api.github.com/repos/sipyourdrink-ltd/trace-registry-mirror/commits/main",
