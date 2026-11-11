@@ -53,7 +53,7 @@ one implementation.
 > entries are live. Scheduled anchoring is operational and `trace-verify` 0.4.3 is
 > published on PyPI. What is missing is volume: three entries, one of them from an
 > outside producer. Two organizations we do not operate hold registered mirrors
-> (Sip Your Drink Ltd since 2026-09-20, HORIZON SHIELD since 2026-10-04; see
+> (Alex Chernysh since 2026-09-20, HORIZON SHIELD since 2026-10-04; see
 > [MIRRORS.md](MIRRORS.md)).
 > See [ROADMAP.md](ROADMAP.md) for what that means and what would change it, and
 > [LIMITATIONS.md](LIMITATIONS.md) for what an anchor does and does not prove.

@@ -32,7 +32,7 @@ layer waiting for production traffic.
   valuable the more independent producers anchor into it, and right now the number
   of independent producers is one.
 - **More independent mirrors.** Two organizations we do not operate hold registered
-  mirrors (Sip Your Drink Ltd since 2026-09-20, HORIZON SHIELD since 2026-10-04).
+  mirrors (Alex Chernysh since 2026-09-20, HORIZON SHIELD since 2026-10-04).
   More are welcome. A mirror run by the AgenTrust project
   checks almost nothing: the value comes from an operator with no incentive to
   cover for us. See [MIRRORS.md](MIRRORS.md) and

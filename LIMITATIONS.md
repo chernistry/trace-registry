@@ -32,7 +32,7 @@ arrived. They are trusting the operator.
 
 **The operator and the log are currently the same party.**
 The AgenTrust project runs the anchoring pipeline and hosts the canonical repository. Two organizations
-we do not operate now hold registered mirrors: Sip Your Drink Ltd since 2026-09-20 and HORIZON
+we do not operate now hold registered mirrors: Alex Chernysh since 2026-09-20 and HORIZON
 SHIELD since 2026-10-04, both matching canonical on 2026-10-07 by `tools/check_mirrors.py`. A
 mirror protects readers only against a rewrite after it first synced, and only when someone
 compares against it. A mirror run by the operator checks almost nothing. See [MIRRORS.md](MIRRORS.md) and
